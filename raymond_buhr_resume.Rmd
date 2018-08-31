@@ -1,0 +1,177 @@
+---
+output: 
+  html_document:
+    theme: spacelab
+    highlight: kate
+---
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+library(kableExtra)
+library(magrittr)
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+## Add font-awesome icons
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+
+# Raymond Buhr
+
+<i class="fa fa-phone">  815.531.5137 </i> | <i class="fa fa-envelope-o">  `raymond.buhr@gmail.com` </i> | <i class="fa fa-github">  raybuhr </i>
+
+<i class="fa fa-linkedin">  `https://linkedin.com/in/raybuhr` </i> | <i class="fa fa-user">  `https://raybuhr.github.io` </i>  
+
+### Summary
+
+I'm a curious and skeptical quantitative analyst with experience in the entire lifecycle of data, from collection to modeling to communicating results. My background using data science in consulting and software products gives me a unique set of analytical and problem-solving tools ideal for modern businesses.
+
+### Skills and Competencies
+
+  - Passionate about creating reproducible research through code and infrastructure, and developing advanced analytical solutions using cutting edge technologies.
+  - Extensive experience using traditional SQL databases, as well as NoSQL, and modern data warehouse technologies like Redshift, BigQuery, Spark, Drill and Presto.
+  - Proficient programmer in Python and R, with some experience in Scala, Ruby, and Go.
+
+### Technical Data Science Projects
+
+**Lead Scoring**
+
+  - Enhanced data from CRM (Salesforce) and transactional database (MySQL) with data from US Census Bureau and other demographics vendors, then fed into a Random Forest classifier trained to segment leads by probability to convert.
+  - The revamped lead scoring method for the sales team led to easier identification of which prospects could be more easily converted and resulted in 50% reduction in unsuccessful phone calls and thus increased time in the day for new lead generation.  
+  
+**Brand Associations**
+
+  - Used association rules and apriori algorithm to group brands together by which other brands their customers also purchased. 
+  - Automated data pipeline and dashboard of results for marketing team, which enabled on demand email campaigns and enhanced conversion rate 5-10x (by brand) over previous strategy obtained from external consultants.  
+
+**Financial Forecasting**
+
+  - Combined functional system model with markov processes with ARIMA time series model to predict both marketplace listings and sales inventory within a 95% confidence interval. 
+  - System model represented the business processes that may or may not occur depending on preceding events, which helped provide better understanding of why fluctuations in daily financials occurred and smoothed out future forecasts enabling for more effective budgeting. 
+
+<br/>
+<br/>
+
+### Professional Experience
+
+
+```{r}
+jobs <- kable(
+  data.frame(
+    Title=c("Manager of Data Science", 
+            "                                                                      ."),
+    Dates=c("March 2018 - present", 
+            "                                                                      .")
+  ), "html"
+) %>% 
+  kable_styling(position = "float_left", full_width = FALSE) %>% 
+  group_rows("Pangea Money Transfer", start_row = 1, end_row = 2) %>% 
+  column_spec(column = 1:2, width = "11em")
+gsub("<thead>.*</thead>", "", jobs)
+```
+
+_**Pangea Money Transfer**_ offers web and mobile apps that allow people in the U.S. to easily send money to friends and family in 15 countries in Latin America and Southeast Asia. 
+
+At Pangea, I initiated and led efforts to build out a data warehouse from scratch, revamp our BI platform, analyze and remodel our pricing, and integrate dynamic data feeds into our CRM platform for more personalized messaging.
+
+<br/>
+
+```{r}
+jobs <- kable(
+  data.frame(
+    Title=c("Senior Data Scientist", "Data Scientist", "Reports Manager"
+            ), 
+    Dates=c("Sep 2017 - March 2018", "Nov 2016 - Sep 2017", "Aug 2015 - Nov 2016"
+            ),
+    row.names = 1
+  ), "html"
+) %>% 
+  kable_styling(position = "float_left", full_width = FALSE) %>% 
+  group_rows("Raise Marketplace", start_row = 1, end_row = 3) %>% 
+  column_spec(column = 1:2, width = "11em")
+gsub("<thead>.*</thead>", "", jobs)
+```
+
+
+_**Raise**_ is an online gift card marketplace where you can sell gift cards for cash or buy discounted gift cards to all your favorite brands. 
+
+At Raise, I built data pipelines from multiple production relational databases and external vendors, used statistics to describe and explain trends and distributions in marketplace behavior, and modeled dynamic relationships impacting risk and finance using machine learning techniques.
+
+<br/>
+<br/>
+
+```{r}
+jobs <- kable(
+  data.frame(
+    Title=c(
+            "Mgmt Analyst Supervisor", "Senior Analyst", "Management Analyst"
+            ), 
+    Dates=c(
+            "Dec 2014 - Jul 2015", "Feb 2012 - Nov 2014", "Jan 2011 - Jan 2012"
+            ),
+    row.names = 1
+  ), "html"
+) %>% 
+  kable_styling(position = "float_left", full_width = FALSE) %>% 
+  group_rows("Nan McKay & Associates", start_row = 1, end_row = 3) %>% 
+  column_spec(column = 1:2, width = "11em")
+gsub("<thead>.*</thead>", "", jobs)
+```
+
+_**Nan McKay & Associates**_ (NMA) provides training, consulting, and program management services to public housing authorities across the nation. 
+
+At NMA, I audited financial reporting and implemented IT solutions for clients, automated our internal operational reporting, and provided training both internally and externally on topics ranging from federal financial regulations to data analysis to SQL and database management.
+
+<br/>
+<br/>
+
+
+<!-- ```{r} -->
+<!-- jobs <- kable( -->
+<!--   data.frame( -->
+<!--     Title=c( -->
+<!--             "Voucher Manager", "Housing Specialist" -->
+<!--             ),  -->
+<!--     Dates=c( -->
+<!--             "Jul 2010 - Jan 2011", "Aug 2009 - Jul 2010" -->
+<!--             ), -->
+<!--     row.names = 1 -->
+<!--   ), "html" -->
+<!-- ) %>%  -->
+<!--   kable_styling(position = "float_left", full_width = FALSE) %>%  -->
+<!--   group_rows("MAC Property Management", 1, 1) %>%  -->
+<!--   group_rows("Thomas & Herbert Consulting", 2, 2) %>%  -->
+<!--   column_spec(column = 1:2, width = "11em") -->
+<!-- gsub("<thead>.*</thead>", "", jobs) -->
+<!-- ``` -->
+
+
+<!-- _**Mac Property Management**_ owns a diverse collection of properties in Chicago, Kansas City, and St. Louis. -->
+
+<!-- <br/> -->
+
+<!-- _**Thomas & Herbert Consulting**_ (T&H) delivers technology solutions that support the Government's top priorities in Healthcare, Housing, Intelligence and Security, and Defense. -->
+
+<!-- <br/> -->
+<!-- <br/> -->
+
+
+### Education
+
+<br/>
+
+
+##### University of California, Berkeley CA
+
+**Master of Information and Data Science**, *Sep 2014 - May 2016*
+
+##### Occidental College, Los Angeles CA
+
+**Bachelor of Arts in Economics**, *Aug 2005 - May 2009*
