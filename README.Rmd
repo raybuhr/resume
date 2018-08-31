@@ -6,7 +6,6 @@ output: github_document
 library(knitr)
 library(kableExtra)
 library(magrittr)
-library(fontawesome)
 ## Global options
 options(max.print="75")
 opts_chunk$set(echo=FALSE,
@@ -20,8 +19,9 @@ opts_chunk$set(echo=FALSE,
 
 ## Raymond Buhr
 
-`r fa("envelope-o")` `raymond.buhr@gmail.com` | `r fa("github")` raybuhr  
-`r fa("linkedin")`  [`https://linkedin.com/in/raybuhr`](https://linkedin.com/in/raybuhr)  | `r fa("user")`  [`https://raybuhr.github.io`](https://raybuhr.github.io)  
+:email: `raymond.buhr@gmail.com` | :octocat: raybuhr
+
+:computer: [`https://linkedin.com/in/raybuhr`](https://linkedin.com/in/raybuhr) | :globe_with_meridians: [`https://raybuhr.github.io`](https://raybuhr.github.io)
 
 ### Summary
 
