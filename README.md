@@ -2,13 +2,13 @@
 Raymond Buhr
 ------------
 
-:email: `raymond.buhr@gmail.com` | :octocat: raybuhr
+email: `raymond.buhr@gmail.com` | github: `raybuhr`
 
-:computer: [`https://linkedin.com/in/raybuhr`](https://linkedin.com/in/raybuhr) | :globe\_with\_meridians: [`https://raybuhr.github.io`](https://raybuhr.github.io)
+linkedin: [`https://linkedin.com/in/raybuhr`](https://linkedin.com/in/raybuhr) | website: [`https://raybuhr.github.io`](https://raybuhr.github.io)
 
 ### Summary
 
-I'm a curious and skeptical quantitative analyst with experience in the entire lifecycle of data, from collection to modeling to communicating results. My background using data science in management consulting and both consumer and enterprise software products gives me a unique set of analytical and problem-solving tools ideal for modern businesses.
+I am a curious and skeptical quantitative analyst with experience in the entire lifecycle of data, from collection to modeling to communicating results. My background using data science in management consulting and both consumer and enterprise software products gives me a unique set of analytical and problem-solving tools ideal for modern businesses.
 
 ### Skills and Competencies
 
@@ -81,9 +81,9 @@ At NMA, I audited financial reporting and implemented IT solutions for clients, 
 | MAC Property Management     | Voucher Manager    | Jul 2010 - Jan 2011 |
 | Thomas & Herbert Consulting | Housing Specialist | Aug 2009 - Jul 2010 |
 
-***Mac Property Management*** owns a diverse collection of properties in Chicago, Kansas City, and St. Louis.
+***Mac Property Management*** owns a diverse collection of properties in Chicago, Kansas City, and Saint Louis.
 
-***Thomas & Herbert Consulting*** (T&H) delivers technology solutions that support the Government's top priorities in Healthcare, Housing, Intelligence and Security, and Defense.
+***Thomas & Herbert Consulting*** (T&H) delivers technology solutions that support top Government priorities in Healthcare, Housing, Intelligence and Security, and Defense.
 
 ### Education
 
