@@ -8,15 +8,20 @@ Raymond Buhr
 
 ### Summary
 
-I'm a curious and skeptical quantitative analyst with experience in the entire lifecycle of data, from collection to modeling to communicating results. My background using data science in consulting and software products gives me a unique set of analytical and problem-solving tools ideal for modern businesses.
+I'm a curious and skeptical quantitative analyst with experience in the entire lifecycle of data, from collection to modeling to communicating results. My background using data science in management consulting and both consumer and enterprise software products gives me a unique set of analytical and problem-solving tools ideal for modern businesses.
 
 ### Skills and Competencies
 
--   Passionate about creating reproducible research through code and infrastructure, and developing advanced analytical solutions using cutting edge technologies.
--   Extensive experience using traditional SQL databases, as well as NoSQL, and modern data warehouse technologies like Redshift, BigQuery, Spark, Drill and Presto.
--   Proficient programmer in Python and R, with some experience in Scala, Ruby, and Go.
+-   Passionate about creating reproducible research through code and infrastructure, and developing advanced analytical solutions using modern cloud technologies.
+-   Extensive experience using traditional SQL (rdbms), NoSQL, and modern data warehouse technologies like Redshift, BigQuery, Spark, Drill, and Presto.
+-   Experienced programmer in Python and R, with some experience in JavaScript, Scala, Ruby, and Go.
 
 ### Data Science Projects
+
+**Churn**
+
+-   Inherited a project 6 months in with very little progress and was able to turn it into a batch prediction job that led to the successful intervention and retention of multiple enterprise customers that our account management team did not know had already started to look at other solutions.
+-   A/B tested multiple algorithms against each other, but picked the one that was easiest to explain the predictors (Logistic Regression) rather than the most accurate (Neural Network) so that our account managers could have context going into calls with the customers predicted most likely to churn.
 
 **Lead Scoring**
 
@@ -34,6 +39,14 @@ I'm a curious and skeptical quantitative analyst with experience in the entire l
 -   System model represented the business processes that may or may not occur depending on preceding events, which helped provide better understanding of why fluctuations in daily financials occurred and smoothed out future forecasts enabling for more effective budgeting.
 
 ### Professional Experience
+
+| Company                     | Title                   | Dates                   |
+|:----------------------------|:------------------------|:------------------------|
+| Braintree, A PayPal Service | Data Scientist 2        | December 2018 - present |
+
+***Braintree*** builds tools to help businesses accept payments across the globe.
+
+At Braintree, I helped lead the Data Research team to innovate and build analytical solutions to our most pressing business needs. We explored problems like fraud and anomaly detection, customer churn, financial forecasting, causal inference around payment authorization rates, and many more. We participated in pair programming, code review and pull requests using GitHub, and built internal tools to make daily tasks like accessing and querying data sources trivial.
 
 | Company               | Title                   | Dates                |
 |:----------------------|:------------------------|:---------------------|
