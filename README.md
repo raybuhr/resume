@@ -50,7 +50,7 @@ At Braintree, I helped lead the Data Research team to innovate and build analyti
 
 | Company               | Title                   | Dates                |
 |:----------------------|:------------------------|:---------------------|
-| Pangea Money Transfer | Manager of Data Science | March 2018 - present |
+| Pangea Money Transfer | Manager of Data Science | March 2018 - December 2018 |
 
 ***Pangea Money Transfer*** offers web and mobile apps that allow people in the U.S. to easily send money to friends and family in 15 countries in Latin America and Southeast Asia.
 
