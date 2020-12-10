@@ -16,27 +16,6 @@ I am a curious and skeptical quantitative analyst with experience in the entire 
 -   Extensive experience using traditional SQL (RDBMS), NoSQL, and modern cloud data warehouse technologies like Redshift, BigQuery, Spark, Hive, Drill, and Presto.
 -   Experienced programmer in Python and R, with some professional experience in JavaScript, Scala, Ruby, and Go.
 
-### Data Science Projects
-
-**Churn**
-
--   Inherited a project 6 months in with very little progress and was able to turn it into a batch prediction job that led to the successful intervention and retention of multiple enterprise customers that our account management team did not know had already started to look at other solutions.
--   A/B tested multiple algorithms against each other, but picked the one that was easiest to explain the predictors (Logistic Regression) rather than the most accurate (Neural Network) so that our account managers could have context going into calls with the customers predicted most likely to churn.
-
-**Lead Scoring**
-
--   Enhanced data from CRM (Salesforce) and transactional database (MySQL) with data from US Census Bureau and other demographics vendors, then fed into a Random Forest classifier trained to segment leads by probability to convert.
--   The revamped lead scoring method for the sales team led to easier identification of which prospects could be more easily converted and resulted in 50% reduction in unsuccessful phone calls and thus increased time in the day for new lead generation.
-
-**Brand Associations**
-
--   Used association rules and apriori algorithm to cluster brands together by which other brands their customers also purchased.
--   Automated data pipeline and dashboard of results for marketing team, which enabled on demand email campaigns and enhanced conversion rate 5-10x (by brand) over previous strategy obtained from external consultants.
-
-**Financial Forecasting**
-
--   Combined functional system model with markov processes with ARIMA time series model to predict both marketplace listings and sales inventory within a 95% confidence interval.
--   System model represented the business processes that may or may not occur depending on preceding events, which helped provide better understanding of why fluctuations in daily financials occurred and smoothed out future forecasts enabling for more effective budgeting.
 
 ### Professional Experience
 
@@ -47,6 +26,18 @@ I am a curious and skeptical quantitative analyst with experience in the entire 
 ***Braintree*** builds tools to help businesses accept payments across the globe.
 
 At Braintree, I helped lead the Data Research team to innovate and build analytical solutions to our most pressing business needs. We explored problems like fraud and anomaly detection, customer retention, financial forecasting, and causal inference within payment flows. I served as the machine learning expert for new product initiatives.
+
+**Churn**
+
+-   Inherited a project 6 months in with very little progress and was able to turn it into a batch prediction job that led to the successful intervention and retention of multiple enterprise customers that our account management team did not know had already started to look at other solutions.
+-   A/B tested multiple algorithms against each other, but picked the one that was easiest to explain the predictors (Logistic Regression) rather than the most accurate (Neural Network) so that our account managers could have context going into calls with the customers predicted most likely to churn.
+
+**Dispute Evidence Recommendations**
+
+- Paired with disputes feature engineering team to build a NLP pipeline to categorize evidence and a logistic regression model to predict likelihood of a merchant winning a chargeback dispute, with estimated impact of 5-30% improvements in win rate for most merchants (potentially saving them millions per year).
+- Deployed models to production using AWS Sagemaker, Kubernetes, and Redis. 
+- Partnered with Customer Success team to identify over 200 customers to pilot launch for and setup reporting and dashboard for tracking success.
+
 
 | Company               | Title                   | Dates                |
 |:----------------------|:------------------------|:---------------------|
@@ -66,6 +57,18 @@ At Pangea, I initiated and led efforts to build out a data warehouse from scratc
 
 At Raise, I built data pipelines from multiple production relational databases and external vendors, used statistics to describe and explain trends and distributions in marketplace behavior, and modeled dynamic relationships impacting risk and finance using machine learning techniques.
 
+**Lead Scoring**
+
+-   Enhanced data from CRM (Salesforce) and transactional database (MySQL) with data from US Census Bureau and other demographics vendors, then fed into a Random Forest classifier trained to segment leads by probability to convert.
+-   The revamped lead scoring method for the sales team led to easier identification of which prospects could be more easily converted and resulted in 50% reduction in unsuccessful phone calls and thus increased time in the day for new lead generation.
+
+**Brand Associations**
+
+-   Used association rules and apriori algorithm to cluster brands together by which other brands their customers also purchased.
+-   Automated data pipeline and dashboard of results for marketing team, which enabled on demand email campaigns and enhanced conversion rate 5-10x (by brand) over previous strategy obtained from external consultants.
+
+
+
 | Company                | Title                   | Dates               |
 |:-----------------------|:------------------------|:--------------------|
 | Nan McKay & Associates | Management Analyst Supervisor | Dec 2014 - Jul 2015 |
@@ -75,15 +78,6 @@ At Raise, I built data pipelines from multiple production relational databases a
 ***Nan McKay & Associates*** (NMA) provides training, consulting, and program management services to public housing authorities across the nation.
 
 At NMA, I audited financial reporting and implemented IT solutions for clients, automated our internal operational reporting, and provided training both internally and externally on topics ranging from federal financial regulations to data analysis to SQL and database management.
-
-| Company                     | Title              | Dates               |
-|:----------------------------|:-------------------|:--------------------|
-| MAC Property Management     | Voucher Manager    | Jul 2010 - Jan 2011 |
-| Thomas & Herbert Consulting | Housing Specialist | Aug 2009 - Jul 2010 |
-
-***Mac Property Management*** owns a diverse collection of properties in Chicago, Kansas City, and Saint Louis.
-
-***Thomas & Herbert Consulting*** (T&H) delivers technology solutions that support top Government priorities in Healthcare, Housing, Intelligence and Security, and Defense.
 
 ### Education
 
