@@ -12,7 +12,7 @@ linkedin: [https://linkedin.com/in/raybuhr](https://linkedin.com/in/raybuhr) | w
 
 - Machine learning expert within the Braintree organization and focused on incorporating predictive modeling into our enterprise products.
 - Contributed to solutions in fraud detection, anomaly detection, customer churn prevention, financial forecasting, and card authorization optimization.
-- Deployed machine learng models to production environments using AWS Sagemaker and EMR, programming frameworks like Python scikit-learn and FastAPI, and application development tools Kubernetes and Airflow.
+- Deployed machine learning models to production environments using AWS Sagemaker and EMR, programming frameworks like Python scikit-learn and FastAPI, and application development tools Kubernetes and Airflow.
 - A/B tested multiple algorithms against each other, helping the team iteratively improve the quality and success of our ML solutions.
 - Partnered with product engineering team to build a OCR and NLP pipeline to automatically categorize chargeback dispute evidence uploaded by merchants to our platform.
 - Developed a logistic regression model to predict probability of winning a chargeback dispute based on evidence submitted, used to provide recommendations and help merchants improve both dispute response rate and win rate saving them $10K-$1.5M USD per year in chargeback losses.
@@ -40,7 +40,7 @@ linkedin: [https://linkedin.com/in/raybuhr](https://linkedin.com/in/raybuhr) | w
 
 ### Nan McKay & Associates, Management Analyst Supervisor, *Jan 2011 - Jul 2015*
 
-- Nan McKay & Associates* (NMA) provides training, consulting, and program management services to public housing authorities across the nation.
+- Nan McKay & Associates (NMA) provides training, consulting, and program management services to public housing authorities across the nation.
 - Started as a Management Analyst and was promoted to Senior Management Analyst, then promoted again given a team of 5 analysts to lead.
 - Audited financial reporting, implemented IT solutions for clients, and automated operational reporting. 
 - Provided training both internally and externally on topics ranging from federal financial regulations to data analysis to SQL and database management.
