@@ -47,12 +47,11 @@ linkedin: [https://linkedin.com/in/raybuhr](https://linkedin.com/in/raybuhr) | w
 
 ## Education
 
-### University of California, Berkeley
-**Master of Information and Data Science**, *Sep 2014 - May 2016*
+**University of California, Berkeley**\
+Master of Information and Data Science, *Sep 2014 - May 2016*
 
-### Occidental College
-
-**Bachelor of Arts in Economics**, *Aug 2005 - May 2009*
+**Occidental College**\
+Bachelor of Arts in Economics, *Aug 2005 - May 2009*
 
 ## Skills and Competencies
 
