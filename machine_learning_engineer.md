@@ -8,7 +8,9 @@ linkedin: [https://linkedin.com/in/raybuhr](https://linkedin.com/in/raybuhr) | w
 
 ## Professional Experience
 
-### PayPal, Senior Data Scientist, *December 2018 - present*
+### StockX, Tech Lead - Machine Learning, *April 2021 - present*
+
+### PayPal, Senior Data Scientist, *December 2018 - April 2021*
 
 - Machine learning expert within the Braintree organization and focused on incorporating predictive modeling into our enterprise products.
 - Contributed to solutions in fraud detection, anomaly detection, customer churn prevention, financial forecasting, and card authorization optimization.
@@ -55,8 +57,8 @@ Bachelor of Arts in Economics, *Aug 2005 - May 2009*
 
 ## Skills and Competencies
 
-- Passionate about creating reproducible research through code and infrastructure, and developing advanced analytical solutions using modern cloud technologies with experience with AWS and GCP.
+- Passionate about creating reproducible research through code and infrastructure, and developing automated decision systems using modern cloud technologies; experience with AWS and GCP.
 - Enthusiastic about machine learning software lifecycle and iterative improvement of data products in production environments using frameworks like Microsoft Team Data Science Process, LeanML, CRISP-DM, and MLOps.
-- Extensive experience using traditional SQL (RDBMS), NoSQL, and modern cloud data warehouse technologies like Redshift, BigQuery, Spark, Hive, Drill, and Presto.
+- Extensive experience using traditional SQL (RDBMS), NoSQL, and modern cloud data warehouse technologies like Snowflake, Redshift, BigQuery, Spark, Hive, Drill, and Presto.
 - Proficient programmer in Python and R, with some professional experience in JavaScript, Scala, Ruby, and Go.
 - Trained and interested in coaching and mentoring junior teammates with previous experience in professional settings and through the Chicago Python user group.
