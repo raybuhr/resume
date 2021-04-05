@@ -15,9 +15,15 @@ linkedin: [https://linkedin.com/in/raybuhr](https://linkedin.com/in/raybuhr) | w
 
 ### Professional Experience
 
-| Company                     | Title                   | Dates                   |
-|:----------------------------|:------------------------|:------------------------|
-| Braintree, A PayPal Service | Data Scientist 2        | December 2018 - present |
+| Company                 | Title                       | Dates                   |
+|:------------------------|:----------------------------|:------------------------|
+| StockX                  | Tech Lead, Machine Learning | April 2021 - present |
+
+**StockX** has created an e-commerce platform based on stock market style bid-ask pricing. 
+
+| Company                     | Title                   | Dates                      |
+|:----------------------------|:------------------------|:---------------------------|
+| Braintree, A PayPal Service | Data Scientist 2        | December 2018 - April 2021 |
 
 ***Braintree*** builds tools to help businesses accept payments across the globe.
 
