@@ -6,15 +6,11 @@ email: raymond.buhr@gmail.com | github: [https://github.com/raybuhr](https://git
 
 linkedin: [https://linkedin.com/in/raybuhr](https://linkedin.com/in/raybuhr) | website: [https://raybuhr.github.io](https://raybuhr.github.io)
 
-### Summary
-
-I am a curious and skeptical quantitative analyst with experience in the entire lifecycle of data, from collection to modeling to communicating results. My background using data science in management consulting and both consumer and enterprise software products gives me a unique set of analytical and problem-solving tools ideal for modern businesses.
-
 ### Skills and Competencies
 
--   Passionate about creating reproducible research through code and infrastructure, and developing advanced analytical solutions using modern cloud technologies.
--   Extensive experience using traditional SQL (RDBMS), NoSQL, and modern cloud data warehouse technologies like Redshift, BigQuery, Spark, Hive, Drill, and Presto.
--   Experienced programmer in Python and R, with some professional experience in JavaScript, Scala, Ruby, and Go.
+- Passionate about creating reproducible research through code and infrastructure, and developing automated decision systems using modern cloud technologies.
+- Extensive experience using traditional SQL (RDBMS), NoSQL, and modern cloud data warehouse technologies like Snowflake, Redshift, BigQuery, Spark, Hive, Drill, and Presto. Professional developement experience with cloud platforms including AWS, GCP, and IBM (SoftLayer).
+- Experienced programmer in Python and R, with some professional experience in JavaScript, Scala, Ruby, and Go.
 
 
 ### Professional Experience
