@@ -10,7 +10,7 @@ linkedin: [https://linkedin.com/in/raybuhr](https://linkedin.com/in/raybuhr) | w
 
 - Passionate about creating reproducible research through code and infrastructure, and developing automated decision systems using modern cloud technologies.
 - Extensive experience using traditional SQL (RDBMS), NoSQL, and modern cloud data warehouse technologies like Snowflake, Redshift, BigQuery, Spark, Hive, Drill, and Presto. Professional developement experience with cloud platforms including AWS, GCP, and IBM (SoftLayer).
-- Experienced programmer in Python and R, with some professional experience in JavaScript, Scala, Ruby, and Go.
+- Experienced programmer with professional experience writing Python, R, JavaScript, Scala, Ruby, and Go.
 
 
 ### Professional Experience
