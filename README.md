@@ -17,9 +17,13 @@ linkedin: [https://linkedin.com/in/raybuhr](https://linkedin.com/in/raybuhr) | w
 
 | Company                 | Title                       | Dates                   |
 |:------------------------|:----------------------------|:------------------------|
-| StockX                  | Tech Lead, Machine Learning | April 2021 - present |
+| StockX                  | Technical Lead, Machine Learning | April 2021 - present |
 
 **StockX** has created an e-commerce platform based on stock market style bid-ask pricing. 
+
+As Technicala Lead on the Machine Learning Personalization team at StockX, I helped build and maintain several production services used to improve the customer experience, such as recommendations and related products.
+My daily work involved writing, testing, and refactoring code in Python, Scala, and JavaScript, writing data pipelines using tools like Airflow and Spark, and developing machine learning systems on top of tools like AWS Sagemaker and MLflow. 
+I leveraged infrastructure as code using Terraform and implemented automated CI/CD processes into ML development and deployment.
 
 | Company                     | Title                   | Dates                      |
 |:----------------------------|:------------------------|:---------------------------|
