@@ -1,94 +1,68 @@
 
-Raymond Buhr
+# Raymond Buhr
+
+## Software Engineer, Machine Learning
 ------------
 
-email: raymond.buhr@gmail.com | github: [https://github.com/raybuhr](https://github.com/raybuhr)
+raymond.buhr@gmail.com | [linkedin.com/in/raybuhr](https://linkedin.com/in/raybuhr) | [github.com/raybuhr](https://github.com/raybuhr)
 
-linkedin: [https://linkedin.com/in/raybuhr](https://linkedin.com/in/raybuhr) | website: [https://raybuhr.github.io](https://raybuhr.github.io)
+### Skills
 
-### Skills and Competencies
+**Machine Learning** (scikit-learn, xgboost, lightgbm, pytorch, tensorflow, keras,spark MLlib)
 
-- Passionate about creating reproducible research through code and infrastructure, and developing automated decision systems using modern cloud technologies.
-- Extensive experience using traditional SQL (RDBMS), NoSQL, and modern cloud data warehouse technologies like Snowflake, Redshift, BigQuery, Spark, Hive, Drill, and Presto. Professional developement experience with cloud platforms including AWS, GCP, and IBM (SoftLayer).
-- Experienced programmer with professional experience writing Python, R, JavaScript, Scala, Ruby, and Go.
+**Programming** (python,scala, go, ruby, javascript, bash)
+
+**Infrastructure** (AWS, GCP, terraform, ansible, git, CI/CD, kubernetes, ECS, Lambda, Datadog)
+
+**Data Engineering** (Spark, Databricks, SQL, PostgreSQL, MySQL, nosql, dynamodb, mongodb, bigtable, BigQuery,
+Snowflake, Redshift, Airflow, Step Functions, dbt)
 
 
 ### Professional Experience
 
-| Company                 | Title                       | Dates                   |
-|:------------------------|:----------------------------|:------------------------|
-| StockX                  | Technical Lead, Machine Learning | April 2021 - present |
+**Software Engineer, Technical Lead, Machine Learning** **_StockX_** <br>
+Apr 2021 – present
+- Lead team planning and tactical decisionsregarding technology asthe technical lead for the
+Recommendationsteam
+- Designed architecture for recommendation system including candidate generation,
+reranking, and serving layers
+- Consolidated and optimized infrastructure and components across multiple machine
+learning projectsleading to reduced latency by 50% and reduced annualized costs by over
+$200K USD
+- Developed model features and product carouselsthat lead to >2.5% net increase in site-wide
+conversion rate confirmed through A/B testing
 
-**StockX** has created an e-commerce platform based on stock market style bid-ask pricing. 
+**Senior Data Scientist**, **_PayPal_** <br>
+Dec 2018 – Mar 2021
+- Developed a recommendation system to advise merchants which evidence to submit to
+most likely win disputes and chargeback claims(patent filed)
+- Created a churn prediction model thatsaved multiple 8-figure contracts(tens of millions of
+annualized revenue)
+- Designed an anomaly detection system to identify changesin payment gateway traffic from
+individual merchants used to engage with at risk accounts
+- Optimized SQL and built Airflow pipelines used for customer facing financial reports
 
-As Technicala Lead on the Machine Learning Personalization team at StockX, I helped build and maintain several production services used to improve the customer experience, such as recommendations and related products.
-My daily work involved writing, testing, and refactoring code in Python, Scala, and JavaScript, writing data pipelines using tools like Airflow and Spark, and developing machine learning systems on top of tools like AWS Sagemaker and MLflow. 
-I leveraged infrastructure as code using Terraform and implemented automated CI/CD processes into ML development and deployment.
+**Manager of Data Science**, **_Pangea Money Transfer_** <br>
+Mar 2018 – Dec 2018
+- Implemented modern data stack using Stitch Data for data ingestion to S3, dbt running on
+AWS ECS, and Snowflake
+- Built a web scraper to track consumer currency transfer pricing and used it to optimize
+pricing in different markets
+- Investigated referral fraud and convinced marketing to reduce referral bonuses without
+negatively impacting customer acquisition
+- Developed a machine learning solution deployed to AWS Lambda to trigger emails and push
+notificationsfor price alertsto customers
 
-| Company                     | Title                   | Dates                      |
-|:----------------------------|:------------------------|:---------------------------|
-| Braintree, A PayPal Service | Data Scientist 2        | December 2018 - April 2021 |
-
-***Braintree*** builds tools to help businesses accept payments across the globe.
-
-At Braintree, I helped lead the Data Research team to innovate and build analytical solutions to our most pressing business needs. We explored problems like fraud and anomaly detection, customer retention, financial forecasting, and causal inference within payment flows. I served as the machine learning expert for new product initiatives.
-
-**Churn**
-
--   Inherited a project 6 months in with very little progress and was able to turn it into a batch prediction job that led to the successful intervention and retention of multiple enterprise customers that our account management team did not know had already started to look at other solutions.
--   A/B tested multiple algorithms against each other, but picked the one that was easiest to explain the predictors (Logistic Regression) rather than the most accurate (Neural Network) so that our account managers could have context going into calls with the customers predicted most likely to churn.
-
-**Dispute Evidence Recommendations**
-
-- Paired with disputes feature engineering team to build a NLP pipeline to categorize evidence and a logistic regression model to predict likelihood of a merchant winning a chargeback dispute, with estimated impact of 5-30% improvements in win rate for most merchants (potentially saving them millions per year).
-- Deployed models to production using AWS Sagemaker, Kubernetes, and Redis. 
-- Partnered with Customer Success team to identify over 200 customers to pilot launch for and setup reporting and dashboard for tracking success.
-
-
-| Company               | Title                   | Dates                |
-|:----------------------|:------------------------|:---------------------|
-| Pangea Money Transfer | Manager of Data Science | March 2018 - December 2018 |
-
-***Pangea Money Transfer*** offers web and mobile apps that allow people in the U.S. to easily send money to friends and family in 15 countries in Latin America and Southeast Asia.
-
-At Pangea, I initiated and led efforts to build out a data warehouse from scratch, revamp our BI platform, analyze and remodel our pricing, design and evalute experiments (A/B tests) for product and marketing campaigns, and integrate dynamic data feeds into our CRM platform for more personalized messaging.
-
-| Company           | Title                 | Dates                 |
-|:------------------|:----------------------|:----------------------|
-| Raise Marketplace | Senior Data Scientist | Sep 2017 - March 2018 |
-|                   | Data Scientist        | Nov 2016 - Sep 2017   |
-|                   | Reports Manager       | Aug 2015 - Nov 2016   |
-
-***Raise*** is an online gift card marketplace where you can sell gift cards for cash or buy discounted gift cards to all your favorite brands.
-
-At Raise, I built data pipelines from multiple production relational databases and external vendors, used statistics to describe and explain trends and distributions in marketplace behavior, and modeled dynamic relationships impacting risk and finance using machine learning techniques.
-
-**Lead Scoring**
-
--   Enhanced data from CRM (Salesforce) and transactional database (MySQL) with data from US Census Bureau and other demographics vendors, then fed into a Random Forest classifier trained to segment leads by probability to convert.
--   The revamped lead scoring method for the sales team led to easier identification of which prospects could be more easily converted and resulted in 50% reduction in unsuccessful phone calls and thus increased time in the day for new lead generation.
-
-**Brand Associations**
-
--   Used association rules and apriori algorithm to cluster brands together by which other brands their customers also purchased.
--   Automated data pipeline and dashboard of results for marketing team, which enabled on demand email campaigns and enhanced conversion rate 5-10x (by brand) over previous strategy obtained from external consultants.
-
-
-
-| Company                | Title                   | Dates               |
-|:-----------------------|:------------------------|:--------------------|
-| Nan McKay & Associates | Management Analyst Supervisor | Dec 2014 - Jul 2015 |
-|                        | Senior Analyst          | Feb 2012 - Nov 2014 |
-|                        | Management Analyst      | Jan 2011 - Jan 2012 |
-
-***Nan McKay & Associates*** (NMA) provides training, consulting, and program management services to public housing authorities across the nation.
-
-At NMA, I audited financial reporting and implemented IT solutions for clients, automated our internal operational reporting, and provided training both internally and externally on topics ranging from federal financial regulations to data analysis to SQL and database management.
+**Senior Data Scientist**, **_Raise Marketplace_** <br>
+Aug 2015 – Mar 2018
+- Developed a machine learning algorithm to rank prospects and leadsforsalesteam leading
+to 500% increase in conversions(for 6 monthsthen we ran out of quality leads)
+- Built classification machine learning algorithm for tracking bulk buyers by brand for fraud
+detection and monitoring
+- Designed and implemented data engineering platform on GCP centered around BigQuery
 
 ### Education
+  
+**Master of Information and Data Science**, _University of California, Berkeley_ 2014 - 2016
 
-**University of California, Berkeley CA**  
-**Master of Information and Data Science**, *Sep 2014 - May 2016*
-
-**Occidental College, Los Angeles CA**  
-**Bachelor of Arts in Economics**, *Aug 2005 - May 2009*
+**Bachelor of Arts in Economics**, _Occidental College_ 2005 - 2009
