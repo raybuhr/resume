@@ -20,49 +20,39 @@ Snowflake, Redshift, Airflow, Step Functions, dbt)
 
 ### Professional Experience
 
-**Software Engineer, Technical Lead, Machine Learning** **_StockX_** <br>
-Apr 2021 – present
-- Lead team planning and tactical decisionsregarding technology asthe technical lead for the
-Recommendationsteam
+**Software Engineer, Technical Lead, Machine Learning** <br>
+**_StockX_**   Apr 2021 – present <br>
+- Lead team planning and tactical decisions regarding technology as the technical lead for the
+Recommendations team
 - Designed architecture for recommendation system including candidate generation,
 reranking, and serving layers
-- Consolidated and optimized infrastructure and components across multiple machine
-learning projectsleading to reduced latency by 50% and reduced annualized costs by over
-$200K USD
-- Developed model features and product carouselsthat lead to >2.5% net increase in site-wide
-conversion rate confirmed through A/B testing
+- Consolidated and optimized infrastructure and components across multiple machine learning projects leading to reduced latency by 50% and reduced annualized costs by over $200K USD
+- Developed model features and product carousels that lead to >2.5% net increase in site-wideconversion rate confirmed through A/B testing
 
-**Senior Data Scientist**, **_PayPal_** <br>
-Dec 2018 – Mar 2021
-- Developed a recommendation system to advise merchants which evidence to submit to
-most likely win disputes and chargeback claims(patent filed)
-- Created a churn prediction model thatsaved multiple 8-figure contracts(tens of millions of
-annualized revenue)
-- Designed an anomaly detection system to identify changesin payment gateway traffic from
-individual merchants used to engage with at risk accounts
+**Senior Data Scientist** <br>
+**_PayPal_**   Dec 2018 – Mar 2021 <br>
+- Developed a recommendation system to advise merchants which evidence to submit to most likely win disputes and chargeback claims (patent filed)
+- Created a churn prediction model that saved multiple 8-figure contracts (tens of millions of annualized revenue)
+- Designed an anomaly detection system to identify changes in payment gateway traffic from individual merchants used to engage with at risk accounts
 - Optimized SQL and built Airflow pipelines used for customer facing financial reports
 
-**Manager of Data Science**, **_Pangea Money Transfer_** <br>
-Mar 2018 – Dec 2018
-- Implemented modern data stack using Stitch Data for data ingestion to S3, dbt running on
-AWS ECS, and Snowflake
-- Built a web scraper to track consumer currency transfer pricing and used it to optimize
-pricing in different markets
-- Investigated referral fraud and convinced marketing to reduce referral bonuses without
-negatively impacting customer acquisition
-- Developed a machine learning solution deployed to AWS Lambda to trigger emails and push
-notificationsfor price alertsto customers
+**Manager of Data Science** <br>
+**_Pangea Money Transfer_**   Mar 2018 – Dec 2018 <br>
+- Implemented modern data stack using Stitch Data for data ingestion to S3, dbt running on AWS ECS, and Snowflake for data warehouse
+- Built a web scraper to track consumer currency transfer rates and used it to optimize pricing in different markets
+- Investigated referral fraud and convinced marketing to reduce referral bonuses without negatively impacting customer acquisition
+- Developed a machine learning solution deployed to AWS Lambda to trigger emails and push notificationsfor price alerts to customers
 
-**Senior Data Scientist**, **_Raise Marketplace_** <br>
-Aug 2015 – Mar 2018
-- Developed a machine learning algorithm to rank prospects and leadsforsalesteam leading
-to 500% increase in conversions(for 6 monthsthen we ran out of quality leads)
-- Built classification machine learning algorithm for tracking bulk buyers by brand for fraud
-detection and monitoring
+**Senior Data Scientist** <br>
+**_Raise Marketplace_**   Aug 2015 – Mar 2018 <br>
+- Developed a machine learning algorithm to rank prospects and leads for the sales team leading to 500% increase in conversions
+- Built a classification machine learning algorithm for tracking bulk buyers by brand for fraud detection and monitoring
 - Designed and implemented data engineering platform on GCP centered around BigQuery
 
 ### Education
   
-**Master of Information and Data Science**, _University of California, Berkeley_ 2014 - 2016
+**Master of Information and Data Science** <br>
+_University of California, Berkeley_ 2014 - 2016
 
-**Bachelor of Arts in Economics**, _Occidental College_ 2005 - 2009
+**Bachelor of Arts in Economics** <br>
+_Occidental College_ 2005 - 2009
